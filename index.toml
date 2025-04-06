@@ -10,7 +10,7 @@ hash = "cc00d951743bc691f22c4fd3362a96bf459b7de116b7765280f61bd1e2cc291b"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "2a4a37e123a71265abb04cea161b39655b4081fa113c35901295e0818e3ede27"
+hash = "4802ecf5a15aad58d8836197e93b25e2b8ccf7a7ef6385efa38650500d1685fd"
 
 [[files]]
 file = "config/bluemap/maps/world.conf"
