@@ -1,0 +1,13 @@
+name = "CICADA"
+filename = "cicada-lib-0.11.9+1.21.5-and-above.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/PgAWAiwk/cicada-lib-0.11.9%2B1.21.5-and-above.jar"
+hash-format = "sha512"
+hash = "c12e0ec00f1db00eaf637a840b4ffa731f9e932bb621ba17deebb038c6a4ed3ad3c9fdcf878c153931a70d0f6720f952bd5d75f6b2b76075bb6aa9de4ffbb949"
+
+[update]
+[update.modrinth]
+mod-id = "IwCkru1D"
+version = "PgAWAiwk"

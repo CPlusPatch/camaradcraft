@@ -1,0 +1,16 @@
+name = "Camaradcraft"
+author = "Gaspard Wierzbinski"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7546cfc5a5150d7c179a0e891464e9050938d1f5f8fcb61b07a311e3b526ca8e"
+
+[versions]
+fabric = "0.16.12"
+minecraft = "1.21.5"
+
+[options]
+acceptable-game-versions = ["1.21.4"]
