@@ -1,13 +1,13 @@
 name = "CICADA"
-filename = "cicada-lib-0.11.9+1.21.5-and-above.jar"
+filename = "cicada-lib-0.12.0+1.21.5-and-above.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IwCkru1D/versions/PgAWAiwk/cicada-lib-0.11.9%2B1.21.5-and-above.jar"
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/jqJJRvqa/cicada-lib-0.12.0%2B1.21.5-and-above.jar"
 hash-format = "sha512"
-hash = "c12e0ec00f1db00eaf637a840b4ffa731f9e932bb621ba17deebb038c6a4ed3ad3c9fdcf878c153931a70d0f6720f952bd5d75f6b2b76075bb6aa9de4ffbb949"
+hash = "4737cdc55cc73000d63c7eb5c9e70a6f828fd9847c4d6a7487cf27f848d48eee10db27469640dd28b3366b61194d4c3771489db19990bf4c0e6647c00fdfe5e0"
 
 [update]
 [update.modrinth]
 mod-id = "IwCkru1D"
-version = "PgAWAiwk"
+version = "jqJJRvqa"

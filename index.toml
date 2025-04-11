@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "dffa285e358e9524a8cc65e007e779ff946de2516da5a9e5fee78e0078eab31c"
+hash = "b14f5b5f2139166e304a4544a8bd40453bfc190d9b16fb49f52909a7b880d533"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ff3a2f8ab5e5cdf9e0b5302dec6cf82ee8e4d8e60832172e85c2d816015bb436"
+hash = "be371b92fe5c461c432775db53386c4b08616f835aac739fb93c2aaf290b31e6"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "2d8f6127e94ebe1cf29eec9ede144046d238736aa6d080bd91b75619418f43ce"
+hash = "a1fa4e801e193463f358b37aa08d34dc2a6dddc8b7202ae3b89993e4ffda2327"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
@@ -166,7 +166,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5c9683d8cfd28ef39e4153dfb560b79ed287baa2a5b7d9fadaeeedcaa566bb74"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "751927adde8dfdf9c05d8d0e68100ef686553001f4376f899418e7d5503f4d75"
 metafile = true
 
 [[files]]
@@ -230,6 +235,11 @@ hash = "7120245268837d69173477dfae3dd86f561678221c9a499317a7e2a480661173"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a4b35e1ccae1898517580f8df3cf3fc353f48eb52487ed633767793acfe0cf14"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "c5623c1e5f39e087e54f6baf8ee42eed0a0e95cd7425ad9192cc60544628f252"
 metafile = true
@@ -286,4 +296,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "3a6895a0ac0fa7e1bbd959804a2dd0dc6bf40987901074e4f7eef85956355896"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "2c851c5442a8c0482422c600fa68ccc808e0cbacf08b832f9a25be4cfdcc56f3"
 metafile = true
