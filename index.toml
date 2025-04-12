@@ -6,7 +6,7 @@ hash = "963838f35080f3dbf1cf37438178d77258bcdc5bcec5d758977465f801859552"
 
 [[files]]
 file = "README.md"
-hash = "cc00d951743bc691f22c4fd3362a96bf459b7de116b7765280f61bd1e2cc291b"
+hash = "95e324a9914aad8470ed154bbe7ca43a9fc34982d15225166376e5642f9e5a1f"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "server-icon.png"
-hash = "7007b8074a0961dac61ace6b28ec7571082c01b016da1f69f8f70c1d3968e52c"
+hash = "c701d3c3b03a0ad8c22953448bf38832597d0509489b48a3358348fb5bab4ba8"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

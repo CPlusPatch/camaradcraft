@@ -1,4 +1,4 @@
-name = "Camaradcraft"
+name = "CPlusCraft"
 author = "Gaspard Wierzbinski"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cc4e30d1a46f2a7ed2fa1ed60cb5c35d90e13e7e23dff23485d0839028009b86"
+hash = "7247d06fb9cc8fe7948c24b38e11ddac99be18c9b990e2ae80a9231a567ef2d4"
 
 [versions]
 fabric = "0.16.12"

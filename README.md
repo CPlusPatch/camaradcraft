@@ -1,4 +1,4 @@
-# Camaradcraft
+# CPlusCraft
 
 A Minecraft modpack.
 
